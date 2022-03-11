@@ -3,3 +3,4 @@
 A trained autoencoder to reconstruct missing information and remove artifacts in during the source separation process, using MUSDB18 and Spleeter.
 
 
+![alt text](NightOwl.jpg)
