@@ -1,6 +1,8 @@
 # Music Source Separation with Post Processing
 
-## Collaboration project with Benjamin Schwartz *Music Information Retrieval Final Project - NYU Music Technology*
+Collaboration project with **Benjamin Schwartz,** *Music Information Retrieval Final Project - NYU Music Technology.*
+
+---
 
 A trained autoencoder to reconstruct missing information and remove artifacts in during the source separation process, using MUSDB18 and Spleeter [^1].
 
