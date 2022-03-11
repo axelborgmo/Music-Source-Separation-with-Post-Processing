@@ -4,3 +4,5 @@ A trained autoencoder to reconstruct missing information and remove artifacts in
 
 
 ![alt text](NightOwl.jpg)
+
+![alt text](Fergessen.jpg)
