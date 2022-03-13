@@ -4,7 +4,7 @@ Collaboration project with **Benjamin Schwartz,** *Music Information Retrieval F
 
 ---
 
-A trained autoencoder to reconstruct missing information and remove artifacts in during the source separation process, using MUSDB18 and Spleeter [^1]. Acknowledgement: This concept behind this project was inspired by Make it Sound Good, a poster session at this year’s ISMIR conference out of Northwestern’s Interactive Audio Lab.1 [^2]
+A trained autoencoder to reconstruct missing information and remove artifacts in during the source separation process, using MUSDB18 and Spleeter [^1]. Acknowledgement: This concept behind this project was inspired by Make it Sound Good, a poster session at the 2021 ISMIR conference out of Northwestern’s Interactive Audio Lab.1 [^2]
 
 
 ![alt text](NightOwl.jpg)
